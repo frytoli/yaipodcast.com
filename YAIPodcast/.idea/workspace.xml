@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6fec67b-2d68-41c0-8d10-9c43e11545f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/post-entry.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/assets/css/common/post-entry.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/assets/css/core/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/assets/css/core/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/assets/css/core/theme-vars.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/assets/css/core/theme-vars.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/home_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/PaperMod/layouts/partials/home_info.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/PaperMod" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nAVam12gLj0mGLuDVy4fI8W1qc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/olivia/Code/YAIPodcast/themes/PaperMod/layouts/_default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/PaperMod/layouts/_default" />
+      <recent name="$PROJECT_DIR$/themes/PaperMod/layouts/partials" />
+      <recent name="$PROJECT_DIR$/themes/PaperMod/assets/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/themes/PaperMod/assets" />
+      <recent name="$PROJECT_DIR$/static/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fec67b-2d68-41c0-8d10-9c43e11545f6" name="Changes" comment="" />
+      <created>1728415932253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728415932253</updated>
+    </task>
+    <servers />
+  </component>
+</project>
