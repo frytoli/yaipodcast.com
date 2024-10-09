@@ -1,0 +1,90 @@
+baseURL: https://yaipodcast.com/
+languageCode: en-us
+title: Yet Another Investigative Podcast
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["episodes"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about/
+          weight: 5
+        - name: Suggest
+          url: suggest/
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 10
+
+assets:
+  disableHLJS: true
+  favicon: "favicon/favicon.ico"
+  favicon16x16: "favicon/favicon-16x16.png"
+  favicon32x32: "favicon/favicon-32x32.png"
+  apple_touch_icon: "favicon/apple-touch-icon.png"
+  safari_pinned_tab: "favicon/apple-touch-icon.png"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Yet Another Investigative Podcast"
+  author: The YAIP Team
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  images: ["images/yaip0.png"]
+
+  homeInfoParams:
+    Image: "images/yaip.png"
+
+  socialIcons:
+    - name: Spotify
+      title: Listen on Spotify
+      url: "https://spotify.com"
+    - name: applepodcasts
+      title: Listen on Apple Podcasts
+      url: "https://apple.com"
+    - name: github
+      title: View our research on Github
+      url: "https://github.com/yaipodcast"
+    - name: Reddit
+      title: Join our community on Reddit
+      url: "https://reddit.com"

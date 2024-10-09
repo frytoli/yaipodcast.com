@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Episodes on Yet Another Investigative Podcast</title>
+    <link>http://localhost:1313/episodes/</link>
+    <description>Recent content in Episodes on Yet Another Investigative Podcast</description>
+    <image>
+      <title>Yet Another Investigative Podcast</title>
+      <url>http://localhost:1313/images/yaip0.png</url>
+      <link>http://localhost:1313/images/yaip0.png</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/episodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 1: The Sinking of the Bayesian</title>
+      <link>http://localhost:1313/episodes/ep1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/episodes/ep1/</guid>
+      <description>Ooooh mysterious.</description>
+    </item>
+  </channel>
+</rss>
